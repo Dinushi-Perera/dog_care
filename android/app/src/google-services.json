@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84754738350",
+    "project_id": "dog-care-b16bd",
+    "storage_bucket": "dog-care-b16bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84754738350:android:7ed0fac353608e2645113f",
+        "android_client_info": {
+          "package_name": "com.example.dog_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8RTKYmac_buWVaUImpLEfIMFvdTOkp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
